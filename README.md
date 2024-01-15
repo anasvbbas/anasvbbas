@@ -16,8 +16,8 @@ Berikut adalah link portfolio yang saya kerjakan:
 
 1. Data Analyst - <a href='https://github.com/anasvbbas/music_chart'>Music Chart 2023</a> - Music chart 2023 dari berbagai platform musik disajikan dalam sebuah webapp yang mudah untuk dilihat
 2. Tableau dashboard <a href='https://github.com/anasvbbas/tableau_project'>Tableau Portfolio</a> - Beberapa dashboard tableau yang interaktif
-3. UI/UX - <a href=''></a> - Kumpulan desain UI/UX.
-4. Other - <a href='github.com/anasvbbas'></a> - Beberapa proyek lain bisa dilihat di github
+3. UI/UX - <a href='https://www.behance.net/gallery/152793279/MY-UIUX-PORTFOLIO-2022'></a> - Kumpulan desain UI/UX.
+4. Other - <a href='github.com/anasvbbas'>Github</a> - Beberapa proyek lain bisa dilihat di github
 
 ## Temukan Saya
 
